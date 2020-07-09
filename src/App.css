@@ -1,0 +1,101 @@
+.reset {
+  display: none;
+  margin: 0.4% 0.4% 0.4% 1%
+}
+
+.button {
+  margin: 0.4%;
+}
+
+.leftButton {
+  margin-left: 1%;
+}
+
+img {
+  margin: 1% 0;
+}
+
+.card {
+  border: none;
+}
+
+.container {
+  display: inline-block;
+  width: 10%;
+  position: relative;
+  margin: 1% 0;
+  padding: 0;
+}
+
+.number {
+  display: inline-block;
+  position: absolute;
+  left: 51%;
+  top: 10%;
+  font-weight: bold;
+  margin: 0;
+  color: red;
+}
+
+.number1 {
+  display: inline-block;
+  position: absolute;
+  right: 57%;
+  bottom: 10%;
+  font-weight: bold;
+  margin: 0;
+  color: red;
+}
+
+.height {
+  height: 180px;
+  border-bottom: solid 1px;
+}
+
+.height2 {
+  border-top: solid 1px;
+}
+
+h2 {
+  font-size: 1.1rem;
+  padding-left: 1%;
+}
+
+.top {
+  margin-top: 1%;
+  margin-bottom: 8%;
+}
+
+.block {
+  display: inline-block;
+}
+
+h1 {
+  margin: 3% 0 0 1%;
+  font-size: 2rem;
+}
+
+.text {
+  margin: 3% 1%;
+}
+
+.help {
+  visibility: hidden;
+  position: absolute;
+  top: 36%;
+  margin-left: 40%;
+}
+
+.menu {
+  border: solid 1px;
+  font-size: 2rem;
+  width: 30%;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  background-color: lightgreen;
+  color: white;
+}
+
+
+
